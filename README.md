@@ -1,4 +1,4 @@
-# 🔢 Object Counter
+# Object Counter
 
 Count objects in a photo. Point it at a picture
 of spilled pencils, a jar of coins, or a parking lot, and get an object count with
