@@ -1,5 +1,7 @@
 # Object Counter
 
+![Example: counting a pile of pencils](docs/screenshot.jpg)
+
 Count objects in a photo. Point it at a picture
 of spilled pencils, a jar of coins, or a parking lot, and get an object count with
 annotated, numbered detections.
