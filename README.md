@@ -1,6 +1,6 @@
 # 🔢 Object Counter
 
-Count objects in a photo — **100% local, free, no paid APIs**. Point it at a picture
+Count objects in a photo. Point it at a picture
 of spilled pencils, a jar of coins, or a parking lot, and get an object count with
 annotated, numbered detections.
 
@@ -8,7 +8,7 @@ Powered by open-weight models running on your own hardware:
 
 | Model | Role |
 |---|---|
-| [Grounding DINO](https://huggingface.co/IDEA-Research/grounding-dino-tiny) | Open-vocabulary detection — find any object by name, no training required |
+| [Grounding DINO](https://huggingface.co/IDEA-Research/grounding-dino-tiny) | Open-vocabulary detection find any object by name, no training required |
 | [CLIP](https://huggingface.co/openai/clip-vit-base-patch32) | Count objects visually similar to a clicked example |
 | [SAM](https://huggingface.co/facebook/sam-vit-base) | Optional pretty segmentation masks |
 
