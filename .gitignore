@@ -1,0 +1,26 @@
+# Virtual environment (large, machine-specific — rebuild with pip install -r requirements.txt)
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Model weights cache (downloaded automatically on first run)
+models/
+
+# Local test scratch
+out.txt
+err.txt
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
